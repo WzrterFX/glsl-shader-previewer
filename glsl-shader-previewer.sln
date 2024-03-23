@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glsl-shader-previewer", "glsl-shader-previewer\glsl-shader-previewer.vcxproj", "{E45EB118-3DE9-4036-97FF-81B7FC717DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Debug|x64.ActiveCfg = Debug|x64
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Debug|x64.Build.0 = Debug|x64
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Debug|x86.Build.0 = Debug|Win32
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Release|x64.ActiveCfg = Release|x64
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Release|x64.Build.0 = Release|x64
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Release|x86.ActiveCfg = Release|Win32
+		{E45EB118-3DE9-4036-97FF-81B7FC717DEB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AD8714-2199-41CA-92EA-638E9567A192}
+	EndGlobalSection
+EndGlobal
